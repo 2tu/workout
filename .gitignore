@@ -1,0 +1,6 @@
+# Project dependencies
+.yarn
+.cache
+*.pyc
+node_modules
+
